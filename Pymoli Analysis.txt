@@ -1,0 +1,15 @@
+Heroes of Pymoli - Data Analysis
+
+The large majority of players that purchases are male at 84% but on average they spend ~9% less than females.
+Males: $4.07 vs Female $4.47
+
+The ages of 15-29 account for ~76.74% of sales
+
+Low maximums for top spenders and titles suggest that the business is volume based across a wide group of customers
+    Top 5 Customers: 19 purchases (~2.4% of volume)
+    Top Title: 12 purchases (~1.5% of volume)
+    Total 780 purchases
+
+Implications to strategy:  
+    Focus marketing on wide spread awareness and aquisition among Males 15-29.  
+    Less investment should be made on CRM programs and repeat customers.
